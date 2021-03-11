@@ -1,0 +1,28 @@
+.product-info {
+    max-width: 500px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+}
+
+.product-info h1 {
+    font-size: 32px;
+    padding: 10px 0;
+}
+
+.product-info p {
+    color: #666;
+    line-height: 30px;
+    margin: 5px 0;
+}
+
+.product-info .lnk {
+    padding: 20px 0;
+
+}
+.product-info p a {
+    color: #da552f;
+
+}
